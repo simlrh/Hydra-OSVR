@@ -1,4 +1,4 @@
-# Hydra-OSVR [![Donate](https://nourish.je/assets/images/donate.svg)](http://ko-fi.com/A250KJT)
+# Hydra-OSVR
 
 Hydra emulation for OSVR. Use these libraries in place of the official sixense libraries to pull controller data from OSVR.
 
